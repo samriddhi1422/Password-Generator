@@ -12,6 +12,8 @@ This project is a Password Generator tool that allows users to generate strong a
 - Option to include special characters.
 
 # Technologies used
--built using ReactJs .
--used Hooks like useEffect,useState anf useCallback to optimize the rendering and prevent the reloading of the page while any changes are done.
--HTML,CSS used to make it more presentable and attractive.
+<ul type="circle">
+ <li>-built using ReactJs .</li>.
+<li>-used Hooks like useEffect,useState anf useCallback to optimize the rendering and prevent the reloading of the page while any changes are done.</li>
+<li>-HTML,CSS used to make it more presentable and attractive.</li>
+</ul>
