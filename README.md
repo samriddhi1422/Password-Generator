@@ -11,4 +11,7 @@ This project is a Password Generator tool that allows users to generate strong a
 - Option to include numbers.
 - Option to include special characters.
 
-<h6>Technologies Used</h6>
+# Technologies used
+-built using ReactJs 
+-used Hooks like useEffect,useState anf useCallback to optimize the rendering and prevent the reloading of the page while any changes are done
+-HTML,CSS used to make it more presentable and attractive
