@@ -1,5 +1,5 @@
 # Password Generator
-
+![image](https://github.com/user-attachments/assets/a6a48002-b47f-441e-9a71-e6424804c672)
 
 ## Overview
 
@@ -10,3 +10,5 @@ This project is a Password Generator tool that allows users to generate strong a
 - Generate passwords of any length from 8 to 100.
 - Option to include numbers.
 - Option to include special characters.
+
+<h6>Technologies Used</h6>
